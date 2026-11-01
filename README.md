@@ -257,8 +257,8 @@ jupyter lab notebooks/cova_x_evaluation_and_triage.ipynb
 ## 👥 Authors & Academic Affiliation
 
 ### Project Team
+* **Arman Hossain Nawmee** (ID: 2221395042) &bull; [@nawmee02](https://github.com/nawmee02) &bull; *Repository Maintainer & Lead Researcher*
 * **Sharmin Akter Badhon** (ID: 2211413042)
-* **Arman Hossain Nawmee** (ID: 2221395042) &bull; [GitHub](https://github.com/nawmee02)
 * **Md. Nakibul Islam Khan** (ID: 2212770042)
 * **Md. Rizuan Al Masud Raeen** (ID: 2212398642)
 
@@ -274,9 +274,9 @@ jupyter lab notebooks/cova_x_evaluation_and_triage.ipynb
 If you reference this work or build upon the methodology, please cite:
 
 ```bibtex
-@thesis{badhon2026humanai,
+@thesis{nawmee2026humanai,
   title     = {Human--AI Collaborative Triage in Conversational Social Engineering Detection},
-  author    = {Badhon, Sharmin Akter and Nawmee, Arman Hossain and Khan, Md. Nakibul Islam and Raeen, Md. Rizuan Al Masud},
+  author    = {Nawmee, Arman Hossain and Badhon, Sharmin Akter and Khan, Md. Nakibul Islam and Raeen, Md. Rizuan Al Masud},
   school    = {North South University},
   department= {Department of Electrical and Computer Engineering},
   year      = {2026},
