@@ -258,7 +258,7 @@ jupyter lab notebooks/cova_x_evaluation_and_triage.ipynb
 
 ### Project Team
 * **Arman Hossain Nawmee** (ID: 2221395042) &bull; [@nawmee02](https://github.com/nawmee02) &bull; *Repository Maintainer & Lead Researcher*
-* **Sharmin Akter Badhon** (ID: 2211413042)
+* **Sharmin Akter Badhon** (ID: 2211413042) &bull; [`akter.badhon@northsouth.edu`](mailto:akter.badhon@northsouth.edu)
 * **Md. Nakibul Islam Khan** (ID: 2212770042)
 * **Md. Rizuan Al Masud Raeen** (ID: 2212398642)
 
